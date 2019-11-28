@@ -1,5 +1,5 @@
 # profeinformatica
-Sitio web de práctica
+Sitio web de práctica en clase de comfama con la instructora Janet Osorno
 echo "# profeinformatica" >> README.md
 	git init
 	git add README.md
